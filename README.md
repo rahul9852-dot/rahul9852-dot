@@ -1,12 +1,12 @@
-<p align="center">Hello, I'm Rahul I do open source!</p>
+<p align="center">Hello, I'm Rahul do open source!</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Software Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Open Financial Technology](https://open.money/)
+- 💼 Software Engineer at [Open Financial Technology](https://open.money/)
 
 - 📈 Built github-readme-stats
 
