@@ -1,3 +1,4 @@
+
 <p align="center">Hello, I'm Rahul do open source!</p>
 
 <br />
@@ -5,6 +6,7 @@
 I'm a self-taught passionate Software Engineer from India 🇮🇳
 
 **About me**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul9852-dot&label=Profile%20views&color=0e75b6&style=flat" alt="hienngm" /> </p>
 
 - 💼 Software Engineer at [Open Financial Technology](https://open.money/)
 
