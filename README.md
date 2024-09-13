@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">I'm Software engineer</h3>
 
-- 📊 I worked Software Engineer(Frontend) at Open, working in top start-up for the past couple of years.
+- 📊 I worked Software Engineer.
   
 - 📝 I regularly write articles on [dev.to](https://dev.to/raorahul)
 
